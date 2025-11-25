@@ -1,0 +1,29 @@
+lalalala
+content on newfile
+by author
+This text added in second time
+Press ESC to stop
+:wq
+Check with :x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
